@@ -1,0 +1,2 @@
+# azuredevops
+POC for pipelines
